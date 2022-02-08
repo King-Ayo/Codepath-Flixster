@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 
-<img src="https://recordit.co/RlicGMx5QH" width=250><br>
+<img src="http://g.recordit.co/RlicGMx5QH.gif" width=250><br>
 
 ### Notes
 The RecyclerView is still a struggle to understand, but it is easier that it was before. Aside from that and technical issues the assignment was not bad.
